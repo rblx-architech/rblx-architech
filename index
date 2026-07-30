@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+
+  html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      width: 100%;
+  }
+
+  body {
+      display: table;
+      background-image: url('BACKGROUND.gif');
+  }
+
+  .my-block {
+      text-align: center;
+      display: table-cell;
+      vertical-align: middle;
+  }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>the source</title>
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  
+  <body style="background-color:black;">
+    <div class="my-block" style="color:White;">This website has been taken down.
+    <br>If you are somehow seeing this
+    <br>Leave this website now
+    <br>The longer you are here the more <span style="color:Red;">it</span> will learn about you.
+    <!--  /MESSAGE.HTML  -->
+    </div>
+    <audio src="https://files.catbox.moe/jnoc51.mp3" autoplay loop></audio>
+  </body>
+</html>
